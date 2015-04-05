@@ -1211,6 +1211,7 @@ a.bg-danger:hover {
   background-color: #d62c1a;
 }
 .page-header {
+ background:url('/img/wall.png')
   padding-bottom: 9.5px;
   margin: 42px 0 21px;
   border-bottom: 1px solid transparent;
